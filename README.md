@@ -41,7 +41,7 @@ user
 You can access user infromation by using keys and attributes just as shown below;
 
 ```python
->>> user_detetail['Firstname']
+>>> user_detail['Firstname']
 'XXXXXX'
 >>> user_detail.get('Middlename')
 'XXXXXX'
